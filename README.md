@@ -1,5 +1,7 @@
-### Hi there 👋
-
+### Halo Semuanya 👋
+Perkenalkan saya **Michael Wibisono** biasa dipanggil **Michael**.\
+Saat ini saya menempuh pendidikan S1 **Informatika** di **Universitas Kristen Duta Wacana**.\
+Saat ini saya mengikuti program **Bangkit Academy 2023 Batch 2** dibidang **Machine Learning**.
 <!--
 **MekelWibi/MekelWibi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
